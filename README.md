@@ -56,13 +56,12 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## 📊 Profile Statistics
- 
+
 <div align="center">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yordaw&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
 
 </div>
-
 
 <div align="center"> 
     <a href="">
@@ -71,8 +70,8 @@
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yordaw&theme=react&line_height=40&hide=css"/>
     </a>
-
 </div>
+
 
 ----------------------------------------------------------------------
 
