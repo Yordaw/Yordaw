@@ -1,16 +1,16 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
 </div>
-<h1> Hi there, I'm Yordan! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<div size='20px'> Hi! My is name Yordan Radkov. Thank You for taking the time to visit my GitHub Profile :smile: 
-</div>
+<h1>Hi there, I'm Yordan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<p style="font-size:20px">Hi! My name is Yordan Radkov. Thank you for taking the time to visit my GitHub Profile 😄</p>
+
 <h2> About Me</h2>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 
 - 🔭 I’m a student at **IES Dr. Lluís Simarro**  
 
-- 🌱 I am currently learning several programming languages.    
+- 🌱 I am currently learning several programming languages and frameworks.    
 
 - 👯  I'm constantly exploring new technologies and trying my best to improve my skills.   
 
